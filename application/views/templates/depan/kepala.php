@@ -9,21 +9,19 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <div class="menuzord-menu menuzord-indented scrollable">
-              <ul class="list-inline font-13 sm-text-center mt-5">
-                <li>
-                <li class="text-white">|</li>
-                  <a class="text-white" href="#" title="Informasi Kuliah di Pranata Indonesia">Kuliah di PI</a>
-                </li>
-                <li class="text-white">|</li>
-                <li>
-                  <a class="text-white" href="#" title="Media Pranata Indonesia">Media</a>
-                </li>
-                <li class="text-white">|</li>
-                  <a class="text-white" href="http://portal.pranataindonesia.ac.id/" title="Sistem Informasi Akademik">Portal SIAP</a>
-                <li class="text-white">|</li>
-              </ul>
-            </div>
+            <ul class="list-inline font-13 sm-text-center mt-5">
+              <li>
+              <li class="text-white">|</li>
+                <a class="text-white" href="#" title="Informasi Kuliah di Pranata Indonesia">Kuliah di PI</a>
+              </li>
+              <li class="text-white">|</li>
+              <li>
+                <a class="text-white" href="#" title="Media Pranata Indonesia">Media</a>
+              </li>
+              <li class="text-white">|</li>
+                <a class="text-white" href="http://portal.pranataindonesia.ac.id/" title="Sistem Informasi Akademik">Portal SIAP</a>
+              <li class="text-white">|</li>
+            </ul>
           </div>
 
 

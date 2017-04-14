@@ -116,21 +116,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <li class="<?php echo activate_menu('Kontak'); ?>"><a href="<?php echo base_url('Kontak/'); ?>">Hubungi Kami </a></li>
               <!-- ./HALAMAN KONTAK -->
 
-              <ul class="pull-right flip hidden-sm hidden-xs">
-                <li>
-                  <!-- Modal: Akses Cepat -->
-                  <a class="btn btn-colored btn-flat bg-theme-colored text-white font-14 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15" href="http://portal.pranataindonesia.ac.id/">Akses Cepat </a>
-                  <ul class="dropdown">
-                    <li><a href="#" title="Sistem Informasi Akademik">Portal SIAP</a></li>
-                    <li><a href="#">Webmail</a></li>
-                    <li><a href="#">E-Learning</a></li>
-                    <li><a href="#">E-Library</a></li>
-                    <li><a href="#">E-Books</a></li>
-                  </ul>
-                  <!-- Modal: Akses Cepat Ends -->
-                </li>
-              </ul> 
-
             </ul>
           </nav>
         </div>

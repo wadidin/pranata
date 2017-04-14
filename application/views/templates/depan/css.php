@@ -76,6 +76,5 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="whirlpool"><i></i><i></i><i></i><i></i></div>
       </div>
     </div>
-    <div id="disable-preloader" class="btn btn-default btn-sm">Disable Preloader</div>
   </div> 
   
