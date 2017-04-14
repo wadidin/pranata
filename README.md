@@ -3,8 +3,8 @@
 
 <h3>Theme : </h3>
 Front End : StudyPress
+<hr>
 
-<br>
 <h3>Techniques : </h3>HMVC
 <hr>
 
