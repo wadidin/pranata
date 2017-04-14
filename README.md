@@ -4,7 +4,7 @@
 <hr>
 
 
-<h3>Theme : </h3><br>
+<h3>Theme : </h3>
 Front End : StudyPress
 
 <br><br><br>
