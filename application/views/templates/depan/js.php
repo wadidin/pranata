@@ -39,7 +39,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="opening-hours">
               <ul class="list-border">
                 <li class="clearfix"> <span> Senin - Sabtu :  </span>
-                  <div class="value pull-right"> 07.00 - 22.00 </div>
+                  <div class="value pull-right"> 07.00 - 21.30 </div>
                 </li>
                 <li class="clearfix"> <span> Minggu : </span>
                   <div class="value pull-right"> Tutup </div>
