@@ -5,12 +5,10 @@
 
 
 <h3>Theme : </h3><br>
-Front End
-Training Education
+Front End : StudyPress
 
 <br><br><br>
-<h3>Techniques : </h3><br>
-HMVC
+<h3>Techniques : </h3>HMVC
 <hr><br><br>
 
 Front End : <br>
