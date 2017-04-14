@@ -8,10 +8,10 @@
 Front End
 Training Education
 
-<br>
+<br><br><br>
 <h3>Techniques : </h3><br>
 HMVC
-<hr>
+<hr><br><br>
 
 Front End : <br>
 ![frontend](https://cloud.githubusercontent.com/assets/13658670/25056722/e8dd4334-2194-11e7-85d1-367a5bd510c7.jpg)
