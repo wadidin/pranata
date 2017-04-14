@@ -13,7 +13,7 @@ Front End : StudyPress
 <hr>
 
 <h3>Ekstras : </h3>
-<h4>1. Helper : </h4> menu_helper(otomatis class active)
+<h4>1. Helper : </h4>menu_helper(otomatis class active)
 <hr>
 
 
