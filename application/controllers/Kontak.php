@@ -7,7 +7,7 @@ class Kontak extends PI_Controller {
 		$this->load->view('templates/depan/css');
 		$this->load->view('templates/depan/kepala');
 		$this->load->view('templates/depan/menu');
-		$this->load->view('kontak');
+		$this->load->view('kontak/view');
 		$this->load->view('templates/depan/js');
 	}
 

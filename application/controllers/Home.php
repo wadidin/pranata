@@ -7,7 +7,7 @@ class Home extends PI_Controller {
 		$this->load->view('templates/depan/css');
 		$this->load->view('templates/depan/kepala');
 		$this->load->view('templates/depan/menu');
-		$this->load->view('home');
+		$this->load->view('home/view');
 		$this->load->view('templates/depan/js');
 	}
 
