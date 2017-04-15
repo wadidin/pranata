@@ -11,7 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <ul class="menuzord-menu menuzord-indented scrollable"">
 
               <!-- HALAMAN HOME -->
-              <li class="<?php echo activate_menu('Home'); ?>"><a href="<?php echo base_url(); ?>">Home </a></li>
+              <li class="<?php echo activate_menu('home'); ?>"><a href="<?php echo base_url(); ?>">Home </a></li>
               <!-- ./HALAMAN HOME -->
 
               <!-- HALAMAN TENTANG PI -->
@@ -113,7 +113,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <!-- ./HALAMAN TENTANG PI -->
 
               <!-- HALAMAN KONTAK -->
-              <li class="<?php echo activate_menu('Kontak'); ?>"><a href="<?php echo base_url('Kontak/'); ?>">Hubungi Kami </a></li>
+              <li class="<?php echo activate_menu('kontak'); ?>"><a href="<?php echo base_url('kontak/'); ?>">Hubungi Kami </a></li>
               <!-- ./HALAMAN KONTAK -->
 
             </ul>
