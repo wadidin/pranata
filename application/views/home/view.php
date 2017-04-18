@@ -949,7 +949,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <form id="mailchimp-subscription-form" class="newsletter-form mt-10">
                 <div class="input-group">
                   <span class="input-group-btn">
-                    <button data-height="45px" class="btn bg-theme-colored text-white btn-xs m-0 font-15" type="submit"> Klik disini <i class="fa fa-angle-double-right font-16 ml-10"></i></button>
+                    <button data-height="45px" class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" type="submit"> Klik disini <i class="fa fa-angle-double-right font-16 ml-10"></i></button>
                   </span>
                 </div>
               </form>
