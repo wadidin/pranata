@@ -30,7 +30,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </li>
                 <li class="text-white">|</li>
                 <li>
-                  <a href="#" class="text-white" title="Sistem Informasi Akademik">Portal SIAP</a>
+                  <a href="http://portal.pranataindonesia.ac.id/" class="text-white" title="Sistem Informasi Akademik">Portal SIAP</a>
                 </li>
                 <li class="text-white">|</li>
               </ul>

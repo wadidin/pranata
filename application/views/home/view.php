@@ -490,12 +490,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </section>
 
     <!-- Section: COURSES -->
-    <section class="bg-lighter">
+    <section id="events" class="divider parallax layer-overlay overlay-dark-8" data-stellar-background-ratio="0.5" data-bg-img="<?php echo base_url(); ?>assets/depan/images/home/slider/slider-2.jpg">
+      <div class="container pt-70 pb-40">
+
       <div class="container pb-60">
         <div class="section-title mb-10">
         <div class="row">
           <div class="col-md-8">
-            <h2 class="mt-0 text-uppercase font-28 line-bottom line-height-1">Jurusan <span class="text-theme-color-2 font-weight-400">Akademik</span></h2>
+            <h2 class="mt-0 text-uppercase text-white font-28 line-bottom line-height-1">Jurusan <span class="text-theme-color-2 font-weight-400">Akademik</span></h2>
          </div>
         </div>
         </div>

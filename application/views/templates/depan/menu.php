@@ -122,8 +122,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                       <h5><a href="javascript:void(0)" class="text-black">Lain-Lain</a></h5><hr>
                       <ul class="list-unstyled list-dashed menuzord-menu">
                         <li><a href="#" class="text-black"><i class="fa fa-map-signs"></i> Webmail PI</a></li>
-                        <li><a href="#" class="text-black" title="Sistem Informasi Akademik"><i class="fa fa-map-marker"></i> Portal SIAP</a></li>
-                        <li><a href="#" class="text-black"><i class="fa fa-map-signs"></i> Forlap Dikti</a></li>
+                        <li><a href="http://portal.pranataindonesia.ac.id/" class="text-black" title="Sistem Informasi Akademik"><i class="fa fa-map-marker"></i> Portal SIAP</a></li>
+                        <li><a href="http://forlap.dikti.go.id/" class="text-black"><i class="fa fa-map-signs"></i> Forlap Dikti</a></li>
                         <li><a href="#" class="text-black"><i class="fa fa-map-marker"></i> E-Books</a></li>
                         <li><a href="#" class="text-black"><i class="fa fa-map-pin"></i> E-Library</a></li>
                         <li><a href="#" class="text-black"><i class="fa fa-map-signs"></i> E-Learning</a></li>
