@@ -1,4 +1,4 @@
-<?php 
+  <?php 
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
 
@@ -55,6 +55,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <script src="<?php echo base_url(); ?>assets/depan/js/bootstrap.min.js"></script>
 <!-- JS | jquery plugin collection for this theme -->
 <script src="<?php echo base_url(); ?>assets/depan/js/jquery-plugin-collection.js"></script>
+
+<!-- Font Awesome -->
+  <link rel="stylesheet" href="<?php echo base_url(); ?>assets/depan/fonts/font-awesome/css/font-awesome.css">
 
 <!-- Revolution Slider 5.x SCRIPTS -->
 <script src="<?php echo base_url(); ?>assets/depan/js/revolution-slider/js/jquery.themepunch.tools.min.js"></script>

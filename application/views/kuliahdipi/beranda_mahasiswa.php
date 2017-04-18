@@ -10,25 +10,22 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   <!-- Start main-content -->
   <div class="main-content">
     <!-- Section: inner-header -->
-    <section class="inner-header layer-overlay" data-bg-img="<?php echo base_url(); ?>assets/depan/images/home/slider/slider-3.jpg">
-      <div class="container pt-70 pb-70">
+    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="<?php echo base_url(); ?>assets/depan/images/home/slider/slider-3.jpg">
+      <div class="container pt-70 pb-20">
         <!-- Section Content -->
         <div class="section-content">
-          <div class="row"> 
-            <div class="col-sm-8 xs-text-center">
-              <h2 class="text-white mt-10">Hubungi Kami</h2>
-            </div>
-            <div class="col-sm-4">
-              <ol class="breadcrumb white mt-10 text-right xs-text-center">
+          <div class="row">
+            <div class="col-md-12">
+              <h2 class="title text-white">Hubungi Kami</h2>
+              <ol class="breadcrumb text-left text-black mt-10">
                 <li><a href="<?php echo base_url(); ?>">Home</a></li>
-                <li class="active">Kontak</li>
+                <li class="active text-gray-silver">Kontak</li>
               </ol>
             </div>
           </div>
         </div>
       </div>
     </section>
-
 
     <!-- Section: Have Any Question -->
     <section class="divider">
