@@ -26,6 +26,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                       <ul class="list-unstyled list-dashed menuzord-menu">
                         <li class="<?php echo activate_menu('sejarah'); ?>"><a href="<?php echo base_url('tentang/selayangpandang/sejarah/'); ?>" class="text-black"><i class="fa fa-book"></i> Sejarah</a></li>
                         <li class="<?php echo activate_menu('identitas'); ?>"><a href="<?php echo base_url('tentang/selayangpandang/identitas/'); ?>" class="text-black"><i class="fa fa-star-o"></i> Identitas</a></li>
+                        <li class="<?php echo activate_menu('visimisi'); ?>"><a href="<?php echo base_url('tentang/selayangpandang/visimisi/'); ?>" class="text-black"><i class="fa fa-star"></i> Visi dan Misi</a></li>
+                        <li class="<?php echo activate_menu('landasan'); ?>"><a href="<?php echo base_url('tentang/selayangpandang/landasan/'); ?>" class="text-black"><i class="fa fa-leanpub"></i> Landasan Hukum</a></li>
                     </div>
                     <div class="col3">
                     <h5><a href="javascript:void(0)" class="text-black">Struktur PI</a></h5><hr>
@@ -57,6 +59,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <ul class="dropdown list-dashed menuzord-menu">
                   <li class="<?php echo activate_menu('ka'); ?>"><a href="<?php echo base_url('akademik/ka/'); ?>">Komputer Akuntansi (D3)</a></li>
                   <li class="<?php echo activate_menu('mi'); ?>"><a href="<?php echo base_url('akademik/mi/'); ?>">Manajemen Informatika (D3)</a></li>
+                  <li class="<?php echo activate_menu('si'); ?>"><a href="<?php echo base_url('akademik/si/'); ?>">Sistem Informasi (S1)</a></li>
+                  <li class="<?php echo activate_menu('ti'); ?>"><a href="<?php echo base_url('akademik/ti/'); ?>">Teknik Informatika (S1)</a></li>
                 </ul>
               </li>
               <!-- ./HALAMAN AKADEMIK -->
