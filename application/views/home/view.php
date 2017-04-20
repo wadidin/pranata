@@ -853,7 +853,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <div class="item">
                 <article class="post clearfix maxwidth600 mb-sm-30">
                   <div class="entry-header">
-                    <div class="post-thumb thumb"> <img src="<?php echo base_url(); ?>assets/depan/images/blog/1.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="<?php echo base_url(); ?>assets/depan/images/blog/1.jpeg" alt="" class="img-responsive img-fullwidth"> </div>
                     <div class="entry-meta meta-absolute text-center pl-15 pr-15">
                     <div class="display-table">
                       <div class="display-table-cell">
