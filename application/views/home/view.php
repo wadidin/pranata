@@ -799,7 +799,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="row">
           <div class="col-md-6">
             <div class="video-popup">                
-              <a href="https://www.youtube.com/watch?v=n8d79M0LtfY" data-lightbox-gallery="youtube-video" title="Video">
+              <a href=https://www.youtube.com/watch?v=bHwG6dl-XpI&t=8s" data-lightbox-gallery="youtube-video" title="Video">
                 <img alt="" src="<?php echo base_url(); ?>assets/depan/images/home/tonton-1.jpg" class="img-responsive img-fullwidth">
               </a>
             </div>
