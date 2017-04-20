@@ -11,7 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
              <a class="menuzord-brand pull-left flip" href="<?php echo base_url(); ?>">
               <img src="<?php echo base_url(); ?>assets/depan/images/logo.png" alt="STMIK Pranata Indonesia">
             </a>
-            <ul class="menuzord-menu menuzord-indented scrollable"">
+            <ul class="menuzord-menu menuzord-indented scrollable">
 
               <!-- HALAMAN HOME -->
               <li class="<?php echo activate_menu('home'); ?>"><a href="<?php echo base_url(); ?>">Home </a></li>
