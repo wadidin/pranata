@@ -626,7 +626,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         </div>
                       </div>
                     </div>
-                    <a class="hover-link" data-lightbox="image" href="<?php echo base_url(); ?>assets/depan/images/gallery/3.jpg">View more</a>
+                    <a class="hover-link" data-lightbox="image" href="<?php echo base_url(); ?>assets/depan/images/gallery/3.jpeg">View more</a>
                   </div>
                 </div>
                 <!-- Portfolio Item End -->
