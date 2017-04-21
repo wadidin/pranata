@@ -605,7 +605,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
                         <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a data-lightbox="image" href="<?php echo base_url(); ?>assets/depan/images/gallery/2.jpg"><i class="fa fa-plus"></i></a>
+                          <a data-lightbox="image" href="<?php echo base_url(); ?>assets/depan/images/gallery/2.jpeg"><i class="fa fa-plus"></i></a>
                         </div>
                       </div>
                     </div>
