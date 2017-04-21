@@ -583,7 +583,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item select1">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/s1.jpg" alt="project">
+                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/1.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
@@ -600,7 +600,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item select1">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/s2.jpg" alt="project">
+                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/2.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
@@ -617,7 +617,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item select2">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/s3.jpg" alt="project">
+                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/3.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
@@ -634,7 +634,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item select3">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/s4.jpg" alt="project">
+                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/4.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
@@ -651,7 +651,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item select1">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/s5.jpg" alt="project">
+                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/5.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
@@ -668,7 +668,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item select3">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/s6.jpg" alt="project">
+                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/6.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
@@ -685,7 +685,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item select2">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/s7.jpg" alt="project">
+                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/7.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
@@ -702,7 +702,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item select3">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/s8.jpg" alt="project">
+                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/8.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
@@ -719,7 +719,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item select1">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/s9.jpg" alt="project">
+                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/9.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
@@ -736,7 +736,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item select2">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/s10.jpg" alt="project">
+                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/10.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
@@ -753,7 +753,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item select1">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/s11.jpg" alt="project">
+                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/11.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
@@ -770,7 +770,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item select3">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/s12.jpg" alt="project">
+                    <img class="img-fullwidth" src="<?php echo base_url(); ?>assets/depan/images/gallery/12.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
@@ -826,7 +826,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <div class="item">
                 <article class="post clearfix maxwidth600 mb-sm-30">
                   <div class="entry-header">
-                    <div class="post-thumb thumb"> <img src="<?php echo base_url(); ?>assets/depan/images/blog/7.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="<?php echo base_url(); ?>assets/depan/images/blog/1.jpg" alt="" class="img-responsive img-fullwidth"> </div>
                     <div class="entry-meta meta-absolute text-center pl-15 pr-15">
                     <div class="display-table">
                       <div class="display-table-cell">
@@ -853,7 +853,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <div class="item">
                 <article class="post clearfix maxwidth600 mb-sm-30">
                   <div class="entry-header">
-                    <div class="post-thumb thumb"> <img src="<?php echo base_url(); ?>assets/depan/images/blog/1.jpeg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="<?php echo base_url(); ?>assets/depan/images/blog/2.jpg" alt="" class="img-responsive img-fullwidth"> </div>
                     <div class="entry-meta meta-absolute text-center pl-15 pr-15">
                     <div class="display-table">
                       <div class="display-table-cell">
@@ -907,7 +907,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <div class="item">
                 <article class="post clearfix maxwidth600 mb-sm-30">
                   <div class="entry-header">
-                    <div class="post-thumb thumb"> <img src="<?php echo base_url(); ?>assets/depan/images/blog/8.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="<?php echo base_url(); ?>assets/depan/images/blog/3.jpg" alt="" class="img-responsive img-fullwidth"> </div>
                     <div class="entry-meta meta-absolute text-center pl-15 pr-15">
                     <div class="display-table">
                       <div class="display-table-cell">
