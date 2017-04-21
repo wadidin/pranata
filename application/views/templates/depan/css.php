@@ -28,7 +28,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <link href="<?php echo base_url(); ?>assets/depan/css/jquery-ui.min.css" rel="stylesheet" type="text/css">
 <link href="<?php echo base_url(); ?>assets/depan/css/animate.css" rel="stylesheet" type="text/css">
 <link href="<?php echo base_url(); ?>assets/depan/css/css-plugin-collections.css" rel="stylesheet"/>
-<link href="<?php echo base_url(); ?>assets/depan/css/listtype.css" rel="stylesheet"/>
+<link href="<?php echo base_url(); ?>assets/depan/css/listtype.css" rel="stylesheet" type="text/css">
 <!-- CSS | menuzord megamenu skins -->
 <link id="menuzord-menu-skins" href="<?php echo base_url(); ?>assets/depan/css/menuzord-skins/menuzord-boxed.css" rel="stylesheet"/>
 <!-- CSS | Main style file -->
