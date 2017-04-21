@@ -14,7 +14,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <ul class="menuzord-menu menuzord-indented scrollable">
 
               <!-- HALAMAN HOME -->
-              <li class="<?php echo activate_menu('home'); ?>"><a href="<?php echo base_url(); ?>">Home </a></li>
+              <li class="<?php echo active_link_controller('home'); ?>"><a href="<?php echo base_url(); ?>">Home </a></li>
               <!-- ./HALAMAN HOME -->
 
               <!-- HALAMAN TENTANG PI -->
@@ -24,21 +24,21 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     <div class="col3">
                     <h5><a href="javascript:void(0)" class="text-black">Selayang Pandang</a></h5><hr>
                       <ul class="list-unstyled list-dashed menuzord-menu">
-                        <li class="<?php echo activate_menu('sejarah'); ?>"><a href="<?php echo base_url('tentang/selayangpandang/sejarah/'); ?>" class="text-black"><i class="fa fa-book"></i> Sejarah</a></li>
-                        <li class="<?php echo activate_menu('identitas'); ?>"><a href="<?php echo base_url('tentang/selayangpandang/identitas/'); ?>" class="text-black"><i class="fa fa-star-o"></i> Identitas</a></li>
-                        <li class="<?php echo activate_menu('visimisi'); ?>"><a href="<?php echo base_url('tentang/selayangpandang/visimisi/'); ?>" class="text-black"><i class="fa fa-star"></i> Visi dan Misi</a></li>
-                        <li class="<?php echo activate_menu('landasan'); ?>"><a href="<?php echo base_url('tentang/selayangpandang/landasan/'); ?>" class="text-black"><i class="fa fa-leanpub"></i> Landasan Hukum</a></li>
+                        <li class="<?php echo active_link_controller('sejarah'); ?>"><a href="<?php echo base_url('tentang/selayangpandang/sejarah/'); ?>" class="text-black"><i class="fa fa-book"></i> Sejarah</a></li>
+                        <li class="<?php echo active_link_controller('identitas'); ?>"><a href="<?php echo base_url('tentang/selayangpandang/identitas/'); ?>" class="text-black"><i class="fa fa-star-o"></i> Identitas</a></li>
+                        <li class="<?php echo active_link_controller('visimisi'); ?>"><a href="<?php echo base_url('tentang/selayangpandang/visimisi/'); ?>" class="text-black"><i class="fa fa-star"></i> Visi dan Misi</a></li>
+                        <li class="<?php echo active_link_controller('landasan'); ?>"><a href="<?php echo base_url('tentang/selayangpandang/landasan/'); ?>" class="text-black"><i class="fa fa-leanpub"></i> Landasan Hukum</a></li>
                     </div>
                     <div class="col3">
                     <h5><a href="javascript:void(0)" class="text-black">Struktur PI</a></h5><hr>
                       <ul class="list-unstyled list-dashed menuzord-menu">
-                        <li class="<?php echo activate_menu('strukturorganisasi'); ?>"><a href="<?php echo base_url('tentang/strukturpi/strukturorganisasi/'); ?>" class="text-black"><i class="fa fa-user"></i> Struktur Organisasi</a></li>
-                        <li class="<?php echo activate_menu('dosendanstaff'); ?>"><a href="<?php echo base_url('tentang/strukturpi/dosendanstaff/'); ?>" class="text-black"><i class="fa fa-users"></i> Dosen dan Staff</a></li>
-                        <li class="<?php echo activate_menu('kemahasiswaan'); ?>"><a href="<?php echo base_url('tentang/strukturpi/kemahasiswaan/'); ?>" class="text-black"><i class="fa fa-user-circle"></i> Kemahasiswaan</a></li>
-                        <li class="<?php echo activate_menu('ketuayayasan'); ?>"><a href="<?php echo base_url('tentang/strukturpi/ketuayayasan/'); ?>" class="text-black"><i class="fa fa-vcard"></i> Ketua Yayasan</a></li>
-                        <li class="<?php echo activate_menu('ketuapi'); ?>"><a href="<?php echo base_url('tentang/strukturpi/ketuapi/'); ?>" class="text-black"><i class="fa fa-vcard"></i> Ketua PI</a></li>
-                        <li class="<?php echo activate_menu('kajur'); ?>"><a href="<?php echo base_url('tentang/strukturpi/kajur/'); ?>" class="text-black"><i class="fa fa-user-md"></i> Ketua Jurusan</a></li>
-                        <li class="<?php echo activate_menu('pusatadministrasi'); ?>"><a href="<?php echo base_url('tentang/strukturpi/pusatadministrasi/'); ?>" class="text-black"><i class="fa fa-money"></i> Pusat Administrasi</a></li>
+                        <li class="<?php echo active_link_controller('strukturorganisasi'); ?>"><a href="<?php echo base_url('tentang/strukturpi/strukturorganisasi/'); ?>" class="text-black"><i class="fa fa-user"></i> Struktur Organisasi</a></li>
+                        <li class="<?php echo active_link_controller('dosendanstaff'); ?>"><a href="<?php echo base_url('tentang/strukturpi/dosendanstaff/'); ?>" class="text-black"><i class="fa fa-users"></i> Dosen dan Staff</a></li>
+                        <li class="<?php echo active_link_controller('kemahasiswaan'); ?>"><a href="<?php echo base_url('tentang/strukturpi/kemahasiswaan/'); ?>" class="text-black"><i class="fa fa-user-circle"></i> Kemahasiswaan</a></li>
+                        <li class="<?php echo active_link_controller('ketuayayasan'); ?>"><a href="<?php echo base_url('tentang/strukturpi/ketuayayasan/'); ?>" class="text-black"><i class="fa fa-vcard"></i> Ketua Yayasan</a></li>
+                        <li class="<?php echo active_link_controller('ketuapi'); ?>"><a href="<?php echo base_url('tentang/strukturpi/ketuapi/'); ?>" class="text-black"><i class="fa fa-vcard"></i> Ketua PI</a></li>
+                        <li class="<?php echo active_link_controller('kajur'); ?>"><a href="<?php echo base_url('tentang/strukturpi/kajur/'); ?>" class="text-black"><i class="fa fa-user-md"></i> Ketua Jurusan</a></li>
+                        <li class="<?php echo active_link_controller('pusatadministrasi'); ?>"><a href="<?php echo base_url('tentang/strukturpi/pusatadministrasi/'); ?>" class="text-black"><i class="fa fa-money"></i> Pusat Administrasi</a></li>
                       </ul>
                     </div>
                     <div class="col3">
@@ -57,10 +57,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <!-- HALAMAN AKADEMIK -->
               <li><a href="javascript:void(0)">Akademik </a>
                 <ul class="dropdown list-dashed menuzord-menu">
-                  <li class="<?php echo activate_menu('ka'); ?>"><a href="<?php echo base_url('akademik/ka/'); ?>">Komputer Akuntansi (D3)</a></li>
-                  <li class="<?php echo activate_menu('mi'); ?>"><a href="<?php echo base_url('akademik/mi/'); ?>">Manajemen Informatika (D3)</a></li>
-                  <li class="<?php echo activate_menu('si'); ?>"><a href="<?php echo base_url('akademik/si/'); ?>">Sistem Informasi (S1)</a></li>
-                  <li class="<?php echo activate_menu('ti'); ?>"><a href="<?php echo base_url('akademik/ti/'); ?>">Teknik Informatika (S1)</a></li>
+                  <li class="<?php echo active_link_controller('ka'); ?>"><a href="<?php echo base_url('akademik/ka/'); ?>">Komputer Akuntansi (D3)</a></li>
+                  <li class="<?php echo active_link_controller('mi'); ?>"><a href="<?php echo base_url('akademik/mi/'); ?>">Manajemen Informatika (D3)</a></li>
+                  <li class="<?php echo active_link_controller('si'); ?>"><a href="<?php echo base_url('akademik/si/'); ?>">Sistem Informasi (S1)</a></li>
+                  <li class="<?php echo active_link_controller('ti'); ?>"><a href="<?php echo base_url('akademik/ti/'); ?>">Teknik Informatika (S1)</a></li>
                 </ul>
               </li>
               <!-- ./HALAMAN AKADEMIK -->
@@ -135,7 +135,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <!-- ./HALAMAN MAHASISWA -->
 
               <!-- HALAMAN KONTAK -->
-              <li class="<?php echo activate_menu('kontak'); ?>"><a href="<?php echo base_url('kontak/'); ?>">Hubungi Kami </a></li>
+              <li class="<?php echo active_link_controller('kontak'); ?>"><a href="<?php echo base_url('kontak/'); ?>">Hubungi Kami </a></li>
               <!-- ./HALAMAN KONTAK -->
 
             </ul>
