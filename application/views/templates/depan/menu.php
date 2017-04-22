@@ -106,7 +106,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     <div class="col3">
                     <h5><a href="javascript:void(0)" class="text-black">Ekstrakurikuler</a></h5><hr>
                       <ul class="list-unstyled list-dashed menuzord-menu">
-                        <li><a href="#" class="text-black"><i class="fa fa-user"></i> Unit Kegiatan Mahasiswa</a></li>
+                        <li class="<?php echo active_link_controller('ukm'); ?>"><a href="<?php echo base_url('mahasiswa/ukm/'); ?>" class="text-black"><i class="fa fa-user"></i> Unit Kegiatan Mahasiswa</a></li>
                       </ul>
                     </div>
                     <div class="col3">

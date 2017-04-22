@@ -42,19 +42,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <ol type="A">
             <h4><b><li>Umum</li></b></h4>
             <p align="justify">Dalam upaya menghasilkan lulusan pendidikan tinggi yang potensial perlu adanya pembinaan kegiatan kemahasiswaan dilingkungan Sekolah Tinggi dan akademi Pranata Indonesia.</p>
-
             <br>
-
             <h4><b><li>Maksud</li></b></h4>
             <p align="justify">Memberikan arah dan muatan kehidupan kemahasiswaan yang bertujuan untuk mewujudkan tercapainya tujuan pendidikan nasional.</p>
-
             <br>
-
             <h4><b><li>Tujuan</li></b></h4>
-            <p align="justify">Memberikan wahana dan sarana pengembangan diri mahasiswa kearah peluasan wawasan dan peningkatan kecendikiawanan serta integritas kepribadian melalui penalaran dan keilmuan, pengembangan minat bakat, kegiatan kesejahteraan mahasiswa, bakti sosial mahasiswa sehingga mahasiswa mampu meningkatkan potensi dirinya agar tumbuh dan berkembang.</p>
-            
-            <br>
-            
+            <p align="justify">Memberikan wahana dan sarana pengembangan diri mahasiswa kearah peluasan wawasan dan peningkatan kecendikiawanan serta integritas kepribadian melalui penalaran dan keilmuan, pengembangan minat bakat, kegiatan kesejahteraan mahasiswa, bakti sosial mahasiswa sehingga mahasiswa mampu meningkatkan potensi dirinya agar tumbuh dan berkembang.</p>            
+            <br>            
             <h4><b><li>Sasaran</li></b></h4>
             <p align="justify">Meningkatkan potensi mahasiswa yang berilmu, berketerampilan dan memiliki sikap terpuji dalam membangun dirinya keluarga, bangsa dan negaranya.</p>
             <p align="justify">Program pembinaan mahasiswa terdiri dari dua bagian diantaranya sebagai berikut:</p>
@@ -74,6 +68,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     <p align="justify">Santunan yatim piatu, kunjungan ke panti jompo, donor darah,kemah kerja bakti mahasiswa, penyelenggaraan sunatan masal,santunan bencana alam,pembuatan SIM kolektif, Membuat tong sampah dilingkungan kampus dan lainnya.</p>
                   </ol>
                 </p>
+                <br>
                 <h5><b><li>Organisasi Kemahasiswaan</li></b></h5>
                 <p>Organisasi kemahasiswaan di tingkat Sekolah Tinggi/Akademik terdiri dari : 
                   <ol type="a">
@@ -81,6 +76,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     <li>Badan Perwakilan Mahasiswa (BPM)</li>
                     <li>Himpunan Mahasiswa Jurusan (HMJ)</li> 
                   </ol>
+                  <br>
                   <ol type="1">
                     <b><li>Senat Mahasiswa (SEMA) terdiri dari :</li></b>
                     <p align="justify"><b><i>Senat Mahasiswa (SEMA)</i></b> berkedudukan di tingkat Sekolah Tinggi/Akademik dan merupakan kelengkapan non struktural Sekolah Tinggi/Akademik. Senat Mahasiswa (SEMA) Komisariat berkedudukan di tingkat kampus dan merupakan kelengkapan non struktural kampus.</p>
