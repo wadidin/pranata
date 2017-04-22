@@ -120,7 +120,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   data-splitin="none" 
                   data-splitout="none" 
                   data-responsive_offset="on"
-                  style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-flat btn-theme-colored border-left-theme-color-2-6px pl-20 pr-20" href="#">View Details</a> 
+                  style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-flat btn-theme-colored border-left-theme-color-2-6px pl-20 pr-20" href="#">Lihat Detail</a> 
                 </div>
               </li>
 
@@ -478,10 +478,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           </div>
           <div class="row">
             <div class="col-md-12 text-center">
-              <h2 class="title font-42 text-theme-colored mt-30 mb-20">Tentang Kampus Kita</h2>
+              <h2 class="title font-42 text-theme-colored mt-30 mb-20">Kampus Kami</h2>
               <p class="mb-20"><b>STMIK Pranata Indonesia</b> telah tumbuh secara progresif menjadi sebuah institusi yang mengarah menjadi pemimpin di bidang kemanusiaan dan peradaban dengan menyeimbangkan nilai-nilai akademis, moralitas dan seni. Melalui kelebihan-kelebihan ini, <b>STMIK Pranata Indonesia</b> berniat untuk menghasilkan bangsa Indonesia menjadi masyarakat yang lebih makmur dan demokratis, dengan berfokus pada perdamaian, keadilan dan nilai-nilai peduli lingkungan yang kuat.</p>
-              <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase font-13 mt-30" href="#">University Details</a>
-              <a class="btn btn-theme-color-2 btn-lg text-uppercase text-white font-13 mt-30" href="#">Register Now</a>
+              <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase font-13 mt-30" href="#">Detail Pranata Indonesia</a>
+              <a class="btn btn-theme-color-2 btn-lg text-uppercase text-white font-13 mt-30" href="#">Daftar Sekarang</a>
             </div>
           </div>
         </div>
@@ -561,7 +561,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="section-title mb-10">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="text-uppercase text-theme-colored title line-bottom line-height-1 mt-0 mb-0">Photo<span class="text-theme-color-2 font-weight-400"> Gallery</span></h2>
+              <h2 class="text-uppercase text-theme-colored title line-bottom line-height-1 mt-0 mb-0">Foto<span class="text-theme-color-2 font-weight-400"> Galeri</span></h2>
             </div>
           </div>
         </div>
@@ -570,10 +570,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="col-md-12">
               <!-- Works Filter -->
               <div class="portfolio-filter font-alt align-center">
-                <a href="#" class="active" data-filter="*">All</a>
-                <a href="#select1" class="" data-filter=".select1">Photos</a>
-                <a href="#select2" class="" data-filter=".select2">Campus</a>
-                <a href="#select3" class="" data-filter=".select3">Students</a>
+                <a href="#" class="active" data-filter="*">Semua</a>
+                <a href="#select1" class="" data-filter=".select1">Foto</a>
+                <a href="#select2" class="" data-filter=".select2">kampus</a>
+                <a href="#select3" class="" data-filter=".select3">Mahasiswa</a>
               </div>
               <!-- End Works Filter -->
               
@@ -838,12 +838,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     </div>
                   </div>
                   <div class="entry-content border-1px p-20">
-                    <h5 class="entry-title mt-0 pt-0"><a href="#">The World Best University</a></h5>
-                    <p class="text-left mb-20 mt-15 font-13">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                    <h5 class="entry-title mt-0 pt-0"><a href="#">Seminar HIMMI</a></h5>
+                    <p class="text-left mb-20 mt-15 font-13">Implementasi teknik penulisan proposal dan tugas akhir.</p>
                     <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a>
                     <ul class="list-inline entry-date pull-right font-12 mt-5">
                       <li><a class="text-theme-colored" href="#">Admin |</a></li>
-                      <li><span class="text-theme-colored">Nov 13, 2015</span></li>
+                      <li><span class="text-theme-colored">April 1, 2017</span></li>
                     </ul>
                     <div class="clearfix"></div>
                   </div>
@@ -865,12 +865,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     </div>
                   </div>
                   <div class="entry-content border-1px p-20">
-                    <h5 class="entry-title mt-0 pt-0"><a href="#">The World Best University</a></h5>
-                    <p class="text-left mb-20 mt-15 font-13">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                    <h5 class="entry-title mt-0 pt-0"><a href="#">Pelantikan HIMTI</a></h5>
+                    <p class="text-left mb-20 mt-15 font-13">pelantikan pengurus HIMTI Periode 2016/2017</p>
                     <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a>
                     <ul class="list-inline entry-date pull-right font-12 mt-5">
                       <li><a class="text-theme-colored" href="#">Admin |</a></li>
-                      <li><span class="text-theme-colored">Nov 13, 2015</span></li>
+                      <li><span class="text-theme-colored">April 12, 2017</span></li>
                     </ul>
                     <div class="clearfix"></div>
                   </div>
@@ -892,12 +892,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     </div>
                   </div>
                   <div class="entry-content border-1px p-20">
-                    <h5 class="entry-title mt-0 pt-0"><a href="#">The World Best University</a></h5>
+                    <h5 class="entry-title mt-0 pt-0"><a href="#">Wisuda ke-XX</a></h5>
                     <p class="text-left mb-20 mt-15 font-13">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
                     <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a>
                     <ul class="list-inline entry-date pull-right font-12 mt-5">
                       <li><a class="text-theme-colored" href="#">Admin |</a></li>
-                      <li><span class="text-theme-colored">Nov 13, 2015</span></li>
+                      <li><span class="text-theme-colored">Nov 13, 2016</span></li>
                     </ul>
                     <div class="clearfix"></div>
                   </div>
@@ -919,12 +919,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     </div>
                   </div>
                   <div class="entry-content border-1px p-20">
-                    <h5 class="entry-title mt-0 pt-0"><a href="#">The World Best University</a></h5>
+                    <h5 class="entry-title mt-0 pt-0"><a href="#">Wisuda ke-XX</a></h5>
                     <p class="text-left mb-20 mt-15 font-13">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
                     <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a>
                     <ul class="list-inline entry-date pull-right font-12 mt-5">
                       <li><a class="text-theme-colored" href="#">Admin |</a></li>
-                      <li><span class="text-theme-colored">Nov 13, 2015</span></li>
+                      <li><span class="text-theme-colored">Nov 13, 2016</span></li>
                     </ul>
                     <div class="clearfix"></div>
                   </div>
