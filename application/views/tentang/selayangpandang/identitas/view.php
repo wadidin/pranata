@@ -38,6 +38,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <h3><b>Identitas STMIK Pranata Indonesia</b></h3>
               <hr>
               <p class="mb-20">
+              <div class="images-fullwidth" data-image="<?php echo base_url('assets/depan/images/tentang/identitas/identitas.jpg'); ?>" data-title="Struktur Organisasi STMIK Pranata Indonesia">
+                  <a class="hover_icon hover_icon_view" href="<?php echo base_url('assets/depan/images/tentang/identitas/identitas.jpg'); ?>" title="" >
+                      <img alt="" src="<?php echo base_url('assets/depan/images/tentang/identitas/identitas.jpg'); ?>" style="width: 400px">
+                  </a>
+                </div>
               <p align="justify"><b>KERETANGAN :</b><br>
 
               <ol type="1" align="justify">

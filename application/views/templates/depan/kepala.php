@@ -12,8 +12,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="widget no-border m-0">
               <ul class="list-inline">
                 <li class="m-0 pl-10 pr-10"> <i class="fa fa-phone text-white"></i> <a class="text-white" href="#">(021) - 880 675 7</a> </li>
-                <li class="text-white m-0 pl-10 pr-10"> <i class="fa fa-clock-o text-white"></i> Sen-Sab | 07:00 to 21:30 </li>
-                <li class="m-0 pl-10 pr-10"> <i class="fa fa-envelope-o text-white"></i> <a class="text-white" href="mailto:info@pranataindonesia.ac.id">info@pranataindonesia.ac.id</a> </li>
+                <li class="text-white m-0 pl-10 pr-10"> <i class="fa fa-clock-o text-white"></i> Sen-Sab | 08:30 to 21:30 </li>
+                <li class="m-0 pl-10 pr-10"> <i class="fa fa-envelope-o text-white"></i> <a class="text-white" href="mailto:humas@pranataindonesia.ac.id">humas@pranataindonesia.ac.id</a> </li>
               </ul>
             </div>
           </div>

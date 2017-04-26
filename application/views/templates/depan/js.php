@@ -13,7 +13,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <p>Jl. Cut Mutia Raya No. 28, Bekasi Timur. Kota Bekasi, Jawa Barat, 17113.</p>
             <ul class="list-inline mt-5">
               <li class="m-0 pl-10 pr-10"> <i class="fa fa-phone text-theme-color-2 mr-5"></i> <a class="text-gray" href="javascript:void(0)">(021) - 880 675 7</a> </li>
-              <li class="m-0 pl-10 pr-10"> <i class="fa fa-envelope-o text-theme-color-2 mr-5"></i> <a class="text-gray" href="mailto:info@pranataindonesia.ac.id">info@pranataindonesia.ac.id</a> </li>
+              <li class="m-0 pl-10 pr-10"> <i class="fa fa-envelope-o text-theme-color-2 mr-5"></i> <a class="text-gray" href="mailto:humas@pranataindonesia.ac.id">humas@pranataindonesia.ac.id</a> </li>
             </ul>
           </div>
         </div>
@@ -39,7 +39,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="opening-hours">
               <ul class="list-border">
                 <li class="clearfix"> <span> Senin - Sabtu :  </span>
-                  <div class="value pull-right"> 07.00 - 21.30 </div>
+                  <div class="value pull-right"> 08.30 - 21.30 </div>
                 </li>
                 <li class="clearfix"> <span> Minggu : </span>
                   <div class="value pull-right"> Tutup </div>

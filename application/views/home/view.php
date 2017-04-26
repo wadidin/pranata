@@ -480,8 +480,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="col-md-12 text-center">
               <h2 class="title font-42 text-theme-colored mt-30 mb-20">Kampus Kami</h2>
               <p class="mb-20"><b>STMIK Pranata Indonesia</b> telah tumbuh secara progresif menjadi sebuah institusi yang mengarah menjadi pemimpin di bidang kemanusiaan dan peradaban dengan menyeimbangkan nilai-nilai akademis, moralitas dan seni. Melalui kelebihan-kelebihan ini, <b>STMIK Pranata Indonesia</b> berniat untuk menghasilkan bangsa Indonesia menjadi masyarakat yang lebih makmur dan demokratis, dengan berfokus pada perdamaian, keadilan dan nilai-nilai peduli lingkungan yang kuat.</p>
-              <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase font-13 mt-30" href="#">Detail Pranata Indonesia</a>
-              <a class="btn btn-theme-color-2 btn-lg text-uppercase text-white font-13 mt-30" href="#">Daftar Sekarang</a>
+              <!-- <a class="btn btn-colored btn-theme-colored btn-lg text-uppercase font-13 mt-30" href="#">Detail Pranata Indonesia</a>
+              <a class="btn btn-theme-color-2 btn-lg text-uppercase text-white font-13 mt-30" href="#">Daftar Sekarang</a> -->
             </div>
           </div>
         </div>
