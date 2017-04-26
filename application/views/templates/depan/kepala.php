@@ -22,7 +22,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <ul class="list-inline text-right sm-text-center">
                 <li class="text-white">|</li>
                 <li>
-                  <a href="#" class="text-white">Kuliah di PI</a>
+                  <a href="<?php echo base_url('kuliahdipi/Beranda_mahasiswa'); ?>" class="text-white">Kuliah di PI</a>
                 </li>
                 <li class="text-white">|</li>
                 <li>

@@ -39,9 +39,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <hr>
               <p class="mb-20">
               <p align="justify">
-                <div class="post_thumb" data-image="assets/depan/images/tentang/struktur/struktur.jpg" data-title="Struktur Organisasi STMIK Pranata Indonesia">
-                  <a class="hover_icon hover_icon_view" href="assets/depan/images/tentang/struktur/struktur.jpg" title="" >
-                      <img alt="" src="assets/depan/images/tentang/struktur/struktur.jpg" style="width: 1500px">
+                <div class="images-fullwidth" data-image="<?php echo base_url('assets/depan/images/tentang/struktur/struktur.jpg'); ?>" data-title="Struktur Organisasi STMIK Pranata Indonesia">
+                  <a class="hover_icon hover_icon_view" href="<?php echo base_url('assets/depan/images/tentang/struktur/struktur.jpg'); ?>" title="" >
+                      <img alt="" src="<?php echo base_url('assets/depan/images/tentang/struktur/struktur.jpg'); ?>" style="width: 1500px">
                   </a>
                 </div>
               </p>

@@ -101,7 +101,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     <h5><a href="javascript:void(0)" class="text-black">Aturan Akademik</a></h5><hr>
                       <ul class="list-unstyled list-dashed menuzord-menu">
                         <li class="<?php echo active_link_controller('hak'); ?>"><a href="<?php echo base_url('mahasiswa/hak/'); ?>" class="text-black"><i class="fa fa-bookmark"></i> Himpunan Aturan Akademik</a></li>
-                        <li><a href="#" class="text-black"><i class="fa fa-calendar"></i> Kalender Akademik</a></li>
+                        <li class="<?php echo active_link_controller('kaldik'); ?>"><a href="<?php echo base_url('mahasiswa/kaldik'); ?>" class="text-black"><i class="fa fa-calendar"></i> Kalender Akademik</a></li>
                     </div>
                     <div class="col3">
                     <h5><a href="javascript:void(0)" class="text-black">Ekstrakurikuler</a></h5><hr>

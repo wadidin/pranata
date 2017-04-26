@@ -21,9 +21,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="widget dark">
             <h4 class="widget-title">Link Singkat</h4>
             <ul class="list angle-double-right list-border">
-              <li><a href="#">Kuliah di PI</a></li>
+              <li><a href="<?php echo base_url('kuliahdipi/beranda_mahasiswa'); ?>">Kuliah di PI</a></li>
               <li><a href="#">Informasi PMB</a></li>
-              <li><a href="#">Portal SIAP</a></li>
+              <li><a href="http://portal.pranataindonesia.ac.id/">Portal SIAP</a></li>
             </ul>
           </div>
         </div>

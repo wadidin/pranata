@@ -16,10 +16,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="section-content">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="title text-white">Hubungi Kami</h2>
+              <h2 class="title text-white">Beranda Mahasiswa</h2>
               <ol class="breadcrumb text-left text-black mt-10">
-                <li><a href="<?php echo base_url(); ?>">Home</a></li>
-                <li class="active text-gray-silver">Kontak</li>
+                <li><a href="<?php echo base_url(); ?>">Kuliah di PI</a></li>
+                <li class="active text-gray-silver">Beranda Mahasiswa</li>
               </ol>
             </div>
           </div>
@@ -33,34 +33,22 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="section-title mb-60">
           <div class="row">
             <div class="col-md-12">
-              <div class="esc-heading small-border text-center">
-                <h3>Ada pertanyaan ?</h3>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="section-content">
-          <div class="row">
-            <div class="col-sm-12 col-md-4">
-              <div class="contact-info text-center">
-                <i class="fa fa-phone font-36 mb-10 text-theme-colored"></i>
-                <h4>Hubungi Kami</h4>
-                <h6 class="text-gray">Telp: (021) - 880 675 7</h6>
-              </div>
-            </div>
-            <div class="col-sm-12 col-md-4">
-              <div class="contact-info text-center">
-                <i class="fa fa-map-marker font-36 mb-10 text-theme-colored"></i>
-                <h4>Alamat</h4>
-                <h6 class="text-gray">Jl. Cut Mutia Raya No. 28, Bekasi Timur.<br>Kota Bekasi, Jawa Barat, 17113.</h6>
-              </div>
-            </div>
-            <div class="col-sm-12 col-md-4">
-              <div class="contact-info text-center">
-                <i class="fa fa-envelope font-36 mb-10 text-theme-colored"></i>
-                <h4>Email</h4>
-                <h6 class="text-gray">info@pranataindonesia.ac.id</h6>
-              </div>
+              <p class="mb-20">
+              <p align="justify">Selamat datang para mahasiswa baru <b>STMIK Pranata Indonesia!</b> Di sini kalian akan belajar, berkembang, bersosialisasi dan pada akhirnya lulus mendapatkan gelar ahlimadya atau sarjana <b>STMIK Pranata Indonesia</b>. Sebelum mendapatkan gelar tersebut, ada beberapa hal penting yang perlu diperhatikan.</p><br>
+
+              <p align="justify">Sebagai mahasiswa baru, yang perlu dilakukan semasa kuliah:</p><br>
+              <ol type="1">
+                <li>Isi data diri di SIAP</li>
+                  <p align="justify">Para mahasiswa baru diwajibkan untuk mengisi isian Sistem Akademik secara online untuk daftar kontrak semester. Pengisian ini harus dilakukan setiap awal semester. Mahasiswa baru dapat berkonsultasi dengan dosen bimbingan untuk melakukan kontrak kredit semester.</p><br>
+                <li>Buka mata untuk pengumuman baru</li>
+                  <p align="justify">Setiap semester, pasti ada pengumuman baru, entah kalendar akademik baru atau pengumuman nilai-nilai mata pelajaran. Maka, seringlah memeriksa akun siap mahasiswa yang telah di sediakan.</p>
+                <li>Kenali lingkungan kampus</li>
+                  <p align="justify">Di <b>STMIK Pranata Indonesia!</b> ada banyak ruang kelas dan beberapa lab komputer. Kenali kampus dengan menghafalkan ruang kelas tempat mahasiswa baru belajar.</p>
+                <li>Daftarkan diri di Perpustakaan</li>
+                  <p align="justify"><i>Books are where knowledge is located</i>. Pinjam buku, browsing, makan atau sekadar bersantai di perpustakaan dapat dijadikan tempat aktivitas yang menarik.</p>
+                <li>Ikuti kegiatan kemahasiswaan</li>
+                  <p align="justify">Di lingkungan <b>STMIK Pranata Indonesia!</b> terdapat organisasi senat mahasiswa, himpunan mahasiswa jurusan, dan unit kemahasiswaan. Ikuti salah satu kegiatan tersebut untuk melatih <i>soft skill</i> kalian.</p>
+              </ol>
             </div>
           </div>
         </div>
