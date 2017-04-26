@@ -26,7 +26,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <!-- LAYERS -->
 
                 <!-- LAYER NR. 1 -->
-                <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway"
+                <!--<div class="tp-caption tp-resizeme text-uppercase text-white font-raleway"
                   id="rs-1-layer-1"
 
                   data-x="['left']"
@@ -48,10 +48,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   data-splitout="none" 
                   data-responsive_offset="on"
                   style="z-index: 7; white-space: nowrap; font-weight:700;">Education
-                </div>
+                </div> -->
 
                 <!-- LAYER NR. 2 -->
-                <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway bg-theme-colored-transparent border-left-theme-color-2-6px pl-20 pr-20"
+                <!--<div class="tp-caption tp-resizeme text-uppercase text-white font-raleway bg-theme-colored-transparent border-left-theme-color-2-6px pl-20 pr-20"
                   id="rs-1-layer-2"
 
                   data-x="['left']"
@@ -73,10 +73,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   data-splitout="none" 
                   data-responsive_offset="on"
                   style="z-index: 7; white-space: nowrap; font-weight:600;">Education For Everyone
-                </div>
+                </div> -->
 
                 <!-- LAYER NR. 3 -->
-                <div class="tp-caption tp-resizeme text-white" 
+                <!--<div class="tp-caption tp-resizeme text-white" 
                   id="rs-1-layer-3"
 
                   data-x="['left']"
@@ -98,10 +98,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   data-splitout="none" 
                   data-responsive_offset="on"
                   style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">We provides always our best services for our clients and  always<br> try to achieve our client's trust and satisfaction.
-                </div>
+                </div> -->
 
                 <!-- LAYER NR. 4 -->
-                <div class="tp-caption tp-resizeme" 
+                <!--<div class="tp-caption tp-resizeme" 
                   id="rs-1-layer-4"
 
                   data-x="['left']"
@@ -121,7 +121,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   data-splitout="none" 
                   data-responsive_offset="on"
                   style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-flat btn-theme-colored border-left-theme-color-2-6px pl-20 pr-20" href="#">Lihat Detail</a> 
-                </div>
+                </div> -->
               </li>
 
               <!-- SLIDE 2 -->
@@ -131,7 +131,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <!-- LAYERS -->
 
                 <!-- LAYER NR. 1 -->
-                <div class="tp-caption tp-resizeme text-uppercase  bg-dark-transparent-5 text-white font-raleway border-left-theme-color-2-6px border-right-theme-color-2-6px pl-30 pr-30"
+                <!--<div class="tp-caption tp-resizeme text-uppercase  bg-dark-transparent-5 text-white font-raleway border-left-theme-color-2-6px border-right-theme-color-2-6px pl-30 pr-30"
                   id="rs-2-layer-1"
                 
                   data-x="['center']"
@@ -153,10 +153,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   data-splitout="none" 
                   data-responsive_offset="on"
                   style="z-index: 7; white-space: nowrap; font-weight:400; border-radius: 30px;">Feed Your Knowledge 
-                </div>
+                </div> -->
 
                 <!-- LAYER NR. 2 -->
-                <div class="tp-caption tp-resizeme text-uppercase bg-theme-colored-transparent text-white font-raleway pl-30 pr-30"
+                <!--<div class="tp-caption tp-resizeme text-uppercase bg-theme-colored-transparent text-white font-raleway pl-30 pr-30"
                   id="rs-2-layer-2"
 
                   data-x="['center']"
@@ -178,10 +178,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   data-splitout="none" 
                   data-responsive_offset="on"
                   style="z-index: 7; white-space: nowrap; font-weight:700; border-radius: 30px;"> World’s Best University
-                </div>
+                </div> -->
 
                 <!-- LAYER NR. 3 -->
-                <div class="tp-caption tp-resizeme text-white text-center" 
+                <!--<div class="tp-caption tp-resizeme text-white text-center" 
                   id="rs-2-layer-3"
 
                   data-x="['center']"
@@ -203,10 +203,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   data-splitout="none" 
                   data-responsive_offset="on"
                   style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">We provides always our best services for our clients and  always<br> try to achieve our client's trust and satisfaction.
-                </div>
+                </div> -->
 
                 <!-- LAYER NR. 4 -->
-                <div class="tp-caption tp-resizeme" 
+                <!--<div class="tp-caption tp-resizeme" 
                   id="rs-2-layer-4"
 
                   data-x="['center']"
@@ -226,7 +226,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   data-splitout="none" 
                   data-responsive_offset="on"
                   style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-default btn-circled btn-transparent pl-20 pr-20" href="#">Apply Now</a> 
-                </div>
+                </div> -->
               </li>
 
               <!-- SLIDE 3 -->
@@ -236,7 +236,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <!-- LAYERS -->
 
                 <!-- LAYER NR. 1 -->
-                <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway bg-theme-colored-transparent border-right-theme-color-2-6px pr-20 pl-20"
+                <!-- <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway bg-theme-colored-transparent border-right-theme-color-2-6px pr-20 pl-20"
                   id="rs-3-layer-1"
 
                   data-x="['right']"
@@ -258,10 +258,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   data-splitout="none" 
                   data-responsive_offset="on"
                   style="z-index: 7; white-space: nowrap; font-weight:600;">Best Education
-                </div>
+                </div> -->
 
                 <!-- LAYER NR. 2 -->
-                <div class="tp-caption tp-resizeme text-uppercase bg-dark-transparent-6 text-white font-raleway pl-20 pr-20"
+                <!--<div class="tp-caption tp-resizeme text-uppercase bg-dark-transparent-6 text-white font-raleway pl-20 pr-20"
                   id="rs-3-layer-2"
 
                   data-x="['right']"
@@ -283,10 +283,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   data-splitout="none" 
                   data-responsive_offset="on"
                   style="z-index: 7; white-space: nowrap; font-weight:600;">For Your Better Future 
-                </div>
+                </div> -->
 
                 <!-- LAYER NR. 3 -->
-                <div class="tp-caption tp-resizeme text-white text-right" 
+                <!--<div class="tp-caption tp-resizeme text-white text-right" 
                   id="rs-3-layer-3"
 
                   data-x="['right']"
@@ -308,10 +308,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   data-splitout="none" 
                   data-responsive_offset="on"
                   style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">We provides always our best services for our clients and  always<br> try to achieve our client's trust and satisfaction.
-                </div>
+                </div> -->
 
                 <!-- LAYER NR. 4 -->
-                <div class="tp-caption tp-resizeme" 
+                <!--<div class="tp-caption tp-resizeme" 
                   id="rs-3-layer-4"
 
                   data-x="['right']"
@@ -331,7 +331,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   data-splitout="none" 
                   data-responsive_offset="on"
                   style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-flat btn-theme-colored btn-theme-colored border-right-theme-color-2-6px pl-20 pr-20" href="#">Apply Now</a> 
-                </div>
+                </div> -->
               </li>
 
             </ul>
@@ -798,15 +798,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="row">
           <div class="col-md-6">
             <div class="video-popup">                
-              <a href=https://www.youtube.com/watch?v=bHwG6dl-XpI&t=8s" data-lightbox-gallery="youtube-video" title="Video">
+              <a href=#" data-lightbox-gallery="youtube-video" title="Video">
                 <img alt="" src="<?php echo base_url(); ?>assets/depan/images/home/tonton-1.jpg" class="img-responsive img-fullwidth">
               </a>
             </div>
           </div>
           <div class="col-md-6 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
             <h3 class="text-gray-lightgray font-24 font-weight-600 mb-5">Ingin Bergabung Dengan Kami ?</h3>
-            <h2 class="font-36 text-uppercase text-white font-weight-600 mt-0">Watch Live Campus Tour</span></h2>
-            <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis totam, laudantium officia praesentium expedita omnis unde tempora beatae, modi, sequi quis. Est quas corporis, nobis aperiam cumque minima libero rem, itaque quo vitae odit praesentium expedita?</p>
+            <h2 class="font-36 text-uppercase text-white font-weight-600 mt-0">Video Tentang Kampus</span></h2>
+            <p class="text-white" align="justify"><b>Sekolah Tinggi Manajemen Informatika dan Komputer (STMIK) Pranata Indonesia</b> di selenggarakan oleh <b><i>Yayasan Manajemen Informatika Indonesia (YMII)</i></b>, tumbuh dan berkembang berawal dari lahirnya <b><i>Lembaga Pendidikan Manajemen Informatika dan Komputer (LPMIK)</i></b> <b><i>YMII Cipto Hadi Pranoto</i></b> sebagai sosok lembaga pendidikan profesi yang bernaung dibawah <b>DIKLUSEMAS DEPDIKNAS</b>. Didirikan pada tanggal 27 Juli tahun 1996 di jalan Cut Mutiah No.28 A-B Bekasi Timur.</p>
             <a class="btn  btn-default hvr-bounce-to-left mt-15" href="#">Lihat Lebih Lanjut</a>
           </div>
         </div>
