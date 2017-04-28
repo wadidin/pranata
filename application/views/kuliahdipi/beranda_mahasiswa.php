@@ -31,8 +31,22 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <section class="divider">
       <div class="container pt-60 pb-60">
         <div class="section-title mb-60">
+          <div class="col-md-3">
+            <div class="sidebar sidebar-sidebar mt-sm-30">
+              <div class="wiget">
+                <h5 class="widget-title line-bottom"><b>Menu Calon Mahasiswa</b></h5>
+                <ul class="list-divider list-border">
+                  <li><a href="http://portal.pranataindonesia.ac.id/siap/">SIAP Mahasiswa</a></li>
+                  <li><a href="<?php echo base_url('tentang/strukturpi/kemahasiswaan'); ?>">Kemahasiswaan</a></li>
+                  <li><a href="<?php echo base_url('mahasiswa/hak'); ?>">Himpunan Aturan</a></li>
+                  <li><a href="<?php echo base_url('mahasiswa/kaldik'); ?>">Kalender Akademik</a></li>
+                  <li><a href="<?php echo base_url('mahasiswa/ukm'); ?>">Unit Kegiatan Mahasiswa</a></li>                  
+                </ul>
+              </div>
+            </div>
+          </div>
           <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-8">
               <p class="mb-20">
               <p align="justify">Selamat datang para mahasiswa baru <b>STMIK Pranata Indonesia!</b> Di sini kalian akan belajar, berkembang, bersosialisasi dan pada akhirnya lulus mendapatkan gelar ahlimadya atau sarjana <b>STMIK Pranata Indonesia</b>. Sebelum mendapatkan gelar tersebut, ada beberapa hal penting yang perlu diperhatikan.</p><br>
 
