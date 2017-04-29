@@ -35,7 +35,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="container">
                   <div class="row mtli-row-clearfix">
                     <div class="col-xs-12 col-sm-6 col-md-3 sm-text-center mb-30 mb-sm-30">
-                      <div class="team maxwidth100">
+                      <div class="team maxwidth400">
                         <div class="thumb"><img class="img-fullwidth" src="<?php echo base_url('assets/depan/images/tentang/dosendanstaff/1.iswandi.jpg');?>" width="50px"></div>
                         <div class="content border-1px border-bottom-theme-color-2-2px p-15 bg-light clearfix">
                           <h4 class="name text-theme-color-2 mt-0">Ir. Iswandi, M.M</h4>
@@ -43,7 +43,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                       </div>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-3 sm-text-center mb-30 mb-sm-30">
-                      <div class="team maxwidth100">
+                      <div class="team maxwidth400">
                         <div class="thumb"><img class="img-fullwidth" src="<?php echo base_url('assets/depan/images/tentang/dosendanstaff/2.rusliputeh.jpg');?>" alt=""></div>
                         <div class="content border-1px border-bottom-theme-color-2-2px p-15 bg-light clearfix">
                           <h4 class="name mt-0 text-theme-color-2">Drs. Rusli Puteh</h4>
@@ -51,7 +51,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                       </div>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-3 sm-text-center mb-30 mb-sm-30">
-                      <div class="team maxwidth100">
+                      <div class="team maxwidth400">
                         <div class="thumb"><img class="img-fullwidth" src="<?php echo base_url('assets/depan/images/tentang/dosendanstaff/3.khaerudin.jpg');?>" alt=""></div>
                         <div class="content border-1px border-bottom-theme-color-2-2px p-15 bg-light clearfix">
                           <h4 class="name mt-0 text-theme-color-2">Ir. M.Khaerudin, M.Kom</h4>
@@ -59,7 +59,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                       </div>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-3 sm-text-center mb-30 mb-sm-30">
-                      <div class="team maxwidth100">
+                      <div class="team maxwidth400">
                         <div class="thumb"><img class="img-fullwidth" src="<?php echo base_url('assets/depan/images/tentang/dosendanstaff/4.devicahyadi.jpg');?>" alt=""></div>
                         <div class="content border-1px border-bottom-theme-color-2-2px p-15 bg-light clearfix">
                           <h4 class="name mt-0 text-theme-color-2">Devi Cahyadi,S.Kom.,M.Kom</h4>
@@ -67,7 +67,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                       </div>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-3 sm-text-center mb-sm-30">
-                      <div class="team maxwidth100">
+                      <div class="team maxwidth400">
                         <div class="thumb"><img class="img-fullwidth" src="<?php echo base_url('assets/depan/images/tentang/dosendanstaff/5.abdulrohim.jpg');?>" alt=""></div>
                         <div class="content border-1px border-bottom-theme-color-2-2px p-15 bg-light clearfix">
                           <h4 class="name text-theme-color-2 mt-0">Abdul Rohim, S.Kom.,M.Kom</h4>
@@ -75,7 +75,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                       </div>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-3 sm-text-center mb-sm-30">
-                      <div class="team maxwidth100">
+                      <div class="team maxwidth400">
                         <div class="thumb"><img class="img-fullwidth" src="<?php echo base_url('assets/depan/images/tentang/dosendanstaff/6.muhramdan.jpg');?>" alt=""></div>
                         <div class="content border-1px border-bottom-theme-color-2-2px p-15 bg-light clearfix">
                           <h4 class="name mt-0 text-theme-color-2">R. Muh. Ramdan</h4>
@@ -83,7 +83,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                       </div>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-3 sm-text-center mb-sm-30">
-                      <div class="team maxwidth100">
+                      <div class="team maxwidth400">
                         <div class="thumb"><img class="img-fullwidth" src="<?php echo base_url('assets/depan/images/tentang/dosendanstaff/7.nurhendi.jpg');?>" alt=""></div>
                         <div class="content border-1px border-bottom-theme-color-2-2px p-15 bg-light clearfix">
                           <h4 class="name mt-0 text-theme-color-2">Nurhendi</h4>
@@ -91,12 +91,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                       </div>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-3 sm-text-center">
-                      <div class="team maxwidth100">
+
                         <div class="thumb"><img class="img-fullwidth" src="<?php echo base_url('assets/depan/images/tentang/dosendanstaff/8.mettititinherawati.jpg');?>" alt=""></div>
                         <div class="content border-1px border-bottom-theme-color-2-2px p-15 bg-light clearfix">
                           <h4 class="name mt-0 text-theme-color-2">Metti Titin Herawati, S.Pd.,M.Pd.,</h4>
                         </div>
-                      </div>
+
                     </div>
                   </div>
                 </div>

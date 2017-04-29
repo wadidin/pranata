@@ -1,4 +1,4 @@
-<?php 
+<?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
 
@@ -47,8 +47,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <p align="justify">Memberikan arah dan muatan kehidupan kemahasiswaan yang bertujuan untuk mewujudkan tercapainya tujuan pendidikan nasional.</p>
             <br>
             <h4><b><li>Tujuan</li></b></h4>
-            <p align="justify">Memberikan wahana dan sarana pengembangan diri mahasiswa kearah peluasan wawasan dan peningkatan kecendikiawanan serta integritas kepribadian melalui penalaran dan keilmuan, pengembangan minat bakat, kegiatan kesejahteraan mahasiswa, bakti sosial mahasiswa sehingga mahasiswa mampu meningkatkan potensi dirinya agar tumbuh dan berkembang.</p>            
-            <br>            
+            <p align="justify">Memberikan wahana dan sarana pengembangan diri mahasiswa kearah peluasan wawasan dan peningkatan kecendikiawanan serta integritas kepribadian melalui penalaran dan keilmuan, pengembangan minat bakat, kegiatan kesejahteraan mahasiswa, bakti sosial mahasiswa sehingga mahasiswa mampu meningkatkan potensi dirinya agar tumbuh dan berkembang.</p>
+            <br>
             <h4><b><li>Sasaran</li></b></h4>
             <p align="justify">Meningkatkan potensi mahasiswa yang berilmu, berketerampilan dan memiliki sikap terpuji dalam membangun dirinya keluarga, bangsa dan negaranya.</p>
             <p align="justify">Program pembinaan mahasiswa terdiri dari dua bagian diantaranya sebagai berikut:</p>
@@ -56,25 +56,25 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <h5><b><li>Intra Kurikuler</li></b></h5>
                 <p align="justify">Kegiatan yang berhubungan dengan kegiatan keilmuan seperti perkuliahan, ujian, penugasan kuliah, Kuliah praktek kerja lapangan, kuliah pengenalan lapangan, kuliah umum, karya ilmiah dan lainnya.</p>
                 <h5><b><li>Ekstra Kurikuler</li></b></h5>
-                <p align="justify"> 
-                  <ol type="a">
+                <p align="justify">
+                  <ol type="A">
                     <b><li>Kegiatan penalaran dan keilmuan</li></b>
                     <p align="justify">Forum akademik dengan mengadakan seminar dengan pembicara dari dalam dan luar kampus, diskusi ilmiah, program pelatihan keilmuan,seni,bahasa,klub komputer (pelatihan komputer, membuat email,design web dll), club bahasa asing, seminar tentang peluang kerja, strategi wawancara,pengembangan diri dan kewirausahaan dll.</p>
                     <b><li>Pengembangan Minat dan keilmuan</li></b>
-                    <p>Pentas seni, pekan olahraga, pecinta alam dan lingkungan dll</p>
+                    <p align="justify">Pentas seni, pekan olahraga, pecinta alam dan lingkungan dll</p>
                     <b><li>Kegiatan kesejahteraan mahasiswa</li></b>
-                    <p>Pemberian beasiswa, kegiatan rohani dan jasmani,koperasi mahasiswa</p>
-                    <li><b>Kegiatan bakti sosial mahasiswa</b></li>
+                    <p align="justify">Pemberian beasiswa, kegiatan rohani dan jasmani,koperasi mahasiswa</p>
+                    <b><li>Kegiatan bakti sosial mahasiswa</li></b>
                     <p align="justify">Santunan yatim piatu, kunjungan ke panti jompo, donor darah,kemah kerja bakti mahasiswa, penyelenggaraan sunatan masal,santunan bencana alam,pembuatan SIM kolektif, Membuat tong sampah dilingkungan kampus dan lainnya.</p>
                   </ol>
                 </p>
                 <br>
                 <h5><b><li>Organisasi Kemahasiswaan</li></b></h5>
-                <p>Organisasi kemahasiswaan di tingkat Sekolah Tinggi/Akademik terdiri dari : 
+                <p>Organisasi kemahasiswaan di tingkat Sekolah Tinggi/Akademik terdiri dari :
                   <ol type="a">
                     <li>Senat Mahasiswa Perguruan Tinggi (SMPT)</li>
                     <li>Badan Perwakilan Mahasiswa (BPM)</li>
-                    <li>Himpunan Mahasiswa Jurusan (HMJ)</li> 
+                    <li>Himpunan Mahasiswa Jurusan (HMJ)</li>
                   </ol>
                   <br>
                   <ol type="1">
@@ -84,7 +84,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     <ol type="a">
                       <li>Badan Perwakilan Mahasiswa (BPM) berkedudukan di tingkat Sekolah Tinggi/Akademi dan merupakan kelengkapan non struktural Sekolah Tinggi/Akademi</li>
                       <li>Badan Perwakilan Mahasiswa (BPM) Komisariat Kampus berkedudukan di tingkat kampus dan merupakan kelengkapan non struktural kampus</li>
-                    </ol>                   
+                    </ol>
                     <b><li>Organisasi Kemahasiswaan ditingkat jurusan adalah Himpunan Mahasiswa Jurusan (HMJ) yang terdiri dari :</li></b>
                     <p align="justify"><b><i>Himpunan Mahasiswa Jurusan (HJM)</i></b> berkedudukan di tingkat jurusan dan merupakan kelengkapan non struktural jurusan Himpunan Mahasiswa Jurusan (HJM) Komisariat Kampus berkedudukan di tingkat dan merupakan kelengkapan non struktural jurusan pada kampus tertentu</p>
                   </ol>
@@ -114,7 +114,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     </ol></p>
                   </ol>
 
-                  <h5><b>Keanggotaan dan Kepengurusan</b></h5> 
+                  <h5><b>Keanggotaan dan Kepengurusan</b></h5>
 
                   <ol type="A">
                     <h6><b><li>SEMA</li></b></h6>
@@ -147,9 +147,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                       <li>Dalam melaksanakan tugas pokok dan fungsinya,pengurus HMJ bertanggung jawab kepada Ketua/Direktur c.q. Ketua jurusan.</li>
                     </ol>
                   </ol>
-                </p>                
+                </p>
               </ol>
-          </ol> 
+          </ol>
         </p>
             </div>
           </div>
@@ -159,4 +159,3 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
   </div>
   <!-- end main-content -->
-

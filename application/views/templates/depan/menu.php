@@ -1,4 +1,4 @@
-<?php 
+<?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
 
@@ -41,14 +41,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <li class="<?php echo active_link_controller('pusatadministrasi'); ?>"><a href="<?php echo base_url('tentang/strukturpi/pusatadministrasi/'); ?>" class="text-black"><i class="fa fa-money"></i> Pusat Administrasi</a></li>
                       </ul>
                     </div>
-                    <div class="col3">
-                      <h5><a href="javascript:void(0)" class="text-black">Lain-Lain</a></h5><hr>
-                      <ul class="list-unstyled list-dashed menuzord-menu">
-                        <li class="<?php echo active_link_controller('kampusI'); ?>"><a href="<?php echo base_url('tentang/lainlain/kampusI'); ?>" class="text-black"><i class="fa fa-map-marker"></i> Kampus I - Cut Mutia</a></li>
-                        <li class="<?php echo active_link_controller('kampusII'); ?>"><a href="<?php echo base_url('tentang/lainlain/kampusII'); ?>" class="text-black"><i class="fa fa-map-pin"></i> Kampus II - Pengasinan</a></li>
-                        <li class="<?php echo active_link_controller('kampusIII'); ?>"><a href="<?php echo base_url('tentang/lainlain/kampusIII'); ?>" class="text-black"><i class="fa fa-map-signs"></i> Kampus III - Pondok Gede</a></li>
-                      </ul>
-                    </div>
+                    
                   </div>
                 </div>
               </li>
@@ -145,5 +138,3 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </div>
   </header>
   <!-- ./MENU -->
-
-  
