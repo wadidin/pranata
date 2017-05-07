@@ -41,7 +41,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <li class="<?php echo active_link_controller('pusatadministrasi'); ?>"><a href="<?php echo base_url('tentang/strukturpi/pusatadministrasi/'); ?>" class="text-black"><i class="fa fa-money"></i> Pusat Administrasi</a></li>
                       </ul>
                     </div>
-                    
                   </div>
                 </div>
               </li>
@@ -102,7 +101,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <li class="<?php echo active_link_controller('ukm'); ?>"><a href="<?php echo base_url('mahasiswa/ukm/'); ?>" class="text-black"><i class="fa fa-user"></i> Unit Kegiatan Mahasiswa</a></li>
                       </ul>
                     </div>
-                    <div class="col3">
+                    <!-- <div class="col3">
                       <h5><a href="javascript:void(0)" class="text-black">Prestasi</a></h5><hr>
                       <ul class="list-unstyled list-dashed menuzord-menu">
                         <li><a href="#" class="text-black"><i class="fa fa-map-marker"></i> Prestasi Mahasiswa</a></li>
@@ -110,7 +109,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <li><a href="#" class="text-black"><i class="fa fa-map-pin"></i> Olahraga</a></li>
                         <li><a href="#" class="text-black"><i class="fa fa-map-signs"></i> Daftar Beasiswa</a></li>
                       </ul>
-                    </div>
+                    </div> -->
                     <div class="col3">
                       <h5><a href="javascript:void(0)" class="text-black">Lain-Lain</a></h5><hr>
                       <ul class="list-unstyled list-dashed menuzord-menu">
